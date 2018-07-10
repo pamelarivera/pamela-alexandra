@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(225, 234, 244);
+    font-family:"Helvetica Neue", sans-serif;
+}
+
+h2{
+    color: White;
+    margin-left: 20px;
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px black, 0 0 35px blue, 0 0 10px darkblue;
+}
+
+p {
+    border: 1px solid powderblue;
+
+}
+
+#sizeoftext {
+    width: 500px;
+    display: inline;
+    float: right;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: silver;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+
+}
+li a:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+.activate{
+    background-color: 
+}
